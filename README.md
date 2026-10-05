@@ -116,6 +116,17 @@ Watabou's original `README.md` has been preserved unchanged.
 
 Please refer to it for the original author's description of TownGeneratorOS and its source-code requirements.
 
+### Vibe Code Alert
+
+The AonzOG Windows installer and launcher were created with assistance from **GPT-5.6 Sol**.
+
+They have **not** undergone an independent security audit or comprehensive static and dynamic cybersecurity assessment.
+
+Both helper tools are plain-text Batch/PowerShell code, so you can inspect what they do before running them.
+
+**The AonzOG Windows helper scripts are provided as-is and should be used at your own risk.**
+
+
 ## Licence and Attribution
 
 TownGeneratorOS remains subject to the licence included in the original project.
