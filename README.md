@@ -116,7 +116,7 @@ Watabou's original `README.md` has been preserved unchanged.
 
 Please refer to it for the original author's description of TownGeneratorOS and its source-code requirements.
 
-### Vibe Code Alert
+## Vibe Code Alert
 
 The AonzOG Windows installer and launcher were created with assistance from **GPT-5.6 Sol**.
 
@@ -132,6 +132,8 @@ Both helper tools are plain-text Batch/PowerShell code, so you can inspect what 
 TownGeneratorOS remains subject to the licence included in the original project.
 
 The original Medieval Fantasy City Generator and TownGeneratorOS source code were created by **Watabou**.
+
+The TownGeneratorOS_Installer.Bat is under The Unlicense (because it is vibe coded).
 
 The Windows installer and installation workflow contained in this fork are additions for easier local installation and use of the original project.
 
